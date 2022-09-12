@@ -4,8 +4,6 @@
 
 🎼 Sometimes I upload my music on [soundcloud](https://soundcloud.com/thiha-kyaw-0).
 
-🗣️Sometimes I talk about random topics alone on [anchor](https://anchor.fm/thihakyaw).
-
 I write about tech on [medium](https://medium.com/@thihakyaw) 🖨️ and I share thoughts about my life on [tumblr](https://thihakyaw.tumblr.com/) 💭.
 
 🔭 I’m currently working on AdTech. 
