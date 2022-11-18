@@ -6,7 +6,7 @@
 
 I write about tech on [medium](https://medium.com/@thihakyaw) 🖨️ and I share thoughts about my life on [tumblr](https://thihakyaw.tumblr.com/) 💭.
 
-🔭 I’m currently working on AdTech. 
+🔭 I’m currently working on E-commerce. 
 
 🚩 Previously worked for SMS Bulk Service, Social Media, Auto Mobile and Usage Based Insurance. 
 
