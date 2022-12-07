@@ -6,8 +6,8 @@
 
 I write about tech on [medium](https://medium.com/@thihakyaw) 🖨️ and I share thoughts about my life on [tumblr](https://thihakyaw.tumblr.com/) 💭.
 
-🔭 I’m currently working on E-commerce. 
+🔭 I’m currently working at Brikl. 
 
-🚩 Previously worked for SMS Bulk Service, Social Media, Auto Mobile and Usage Based Insurance. 
+🚩 Previously worked for SMS Bulk Service, Social Media, Auto Mobile, Usage Based Insurance and AdTech. 
 
-My main tech stacks - **Node.js** | **PHP**
+My main tech stacks - **Node.js** | **TypeScript**
