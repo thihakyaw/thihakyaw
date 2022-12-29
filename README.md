@@ -6,7 +6,7 @@
 
 I write about tech on [medium](https://medium.com/@thihakyaw) 🖨️ and I share thoughts about my life on [tumblr](https://thihakyaw.tumblr.com/) 💭.
 
-🔭 I’m currently working at Brikl. 
+🔭 I’m currently working at [BrikL](https://www.brikl.com). 
 
 🚩 Previously worked for SMS Bulk Service, Social Media, Auto Mobile, Usage Based Insurance and AdTech. 
 
