@@ -8,6 +8,6 @@ I write about tech on [medium](https://medium.com/@thihakyaw) 🖨️ and I shar
 
 🔭 I’m currently working at [Sertis](https://www.sertiscorp.com). 
 
-🚩 Previously worked for SMS Bulk Service, Social Media, Auto Mobile, Usage Based Insurance ,AdTech and E-commerce. 
+🚩 Previously worked for SMS Bulk Service, Social Media, Auto Mobile, Usage Based Insurance , AdTech and E-commerce. 
 
 My main tech stacks - **Node.js** | **TypeScript**
